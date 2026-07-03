@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning C/C++
 - 😄 Pronouns: he/him
 
-### Currently just vibecoding cause coding is boring!!
+### Currently just vibecoding cause coding is boring and fable 5 is cool!!
 
 ---
 
