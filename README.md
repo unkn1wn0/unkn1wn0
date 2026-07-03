@@ -9,6 +9,8 @@
 - 🌱 I’m currently learning C/C++
 - 😄 Pronouns: he/him
 
+### Currently just vibecoding cause coding is boring!!
+
 ---
 
 ### [Lighthouse](https://developer.chrome.com/docs/lighthouse/overview) score for one of my projects (not on Github)
